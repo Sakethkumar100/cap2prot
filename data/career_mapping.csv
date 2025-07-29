@@ -1,5 +1,4 @@
-career	interests	skills	step1	step2	step3
-Data Analyst	Data;Business	Python;Excel;SQL	Learn Excel basics	Practice SQL queries	Complete Python for Data Analysis
-Graphic Designer	Design	Graphic Design;Communication	Learn Figma or Adobe XD	Practice UI case studies	Build a design portfolio
-Marketing Associate	Business;Marketing	Public Speaking;Communication	Study digital marketing basics	Run mock ad campaigns	Build a LinkedIn presence
-
+career,interests,skills,step1,step2,step3
+Data Analyst,Data;Business,Python;Excel;SQL,"Learn Excel basics","Practice SQL queries","Complete Python for Data Analysis"
+Graphic Designer,Design,Graphic Design;Communication,"Learn Figma or Adobe XD","Practice UI case studies","Build a design portfolio"
+Marketing Associate,Business;Marketing,Public Speaking;Communication,"Study digital marketing basics","Run mock ad campaigns","Build a LinkedIn presence"
